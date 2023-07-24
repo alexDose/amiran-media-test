@@ -1,0 +1,19 @@
+.modal {
+  position: fixed;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  left: 50%;
+  top: 50%;
+  min-width: 40%;
+  padding: 20px;
+  background-color: #fff;
+  transform: translate(-50%, -50%);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+

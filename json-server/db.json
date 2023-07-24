@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "article 1",
+      "popular": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet asperiores cumque deleniti dolorem enim et explicabo id illum labore nam nobis non pariatur perspiciatis sed, similique tempora totam vitae. Accusamus aliquid atque beatae blanditiis commodi consequuntur corporis cum doloremque, doloribus eum explicabo fugiat fugit itaque, iure laboriosam magnam minima molestias, odit officiis porro quas quis quos ratione soluta sunt temporibus ullam veniam vitae voluptas voluptates? Animi corporis cupiditate tempora.",
+      "comments": [
+        {
+          "user": "user 1",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        },
+        {
+          "user": "user 2",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "norm"
+        },
+        {
+          "user": "user 3",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "bad"
+        },
+        {
+          "user": "user 4",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "ok"
+        },
+        {
+          "user": "user 5",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        }
+      ],
+      "categories": "category 1"
+    },
+    {
+      "id": 2,
+      "title": "article 2",
+      "popular": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet asperiores cumque deleniti dolorem enim et explicabo id illum labore nam nobis non pariatur perspiciatis sed, similique tempora totam vitae. Accusamus aliquid atque beatae blanditiis commodi consequuntur corporis cum doloremque, doloribus eum explicabo fugiat fugit itaque, iure laboriosam magnam minima molestias, odit officiis porro quas quis quos ratione soluta sunt temporibus ullam veniam vitae voluptas voluptates? Animi corporis cupiditate tempora.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, deleniti?",
+      "comments": [
+        {
+          "user": "user 3",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "bad"
+        },
+        {
+          "user": "user 4",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "ok"
+        },
+        {
+          "user": "user 5",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        }
+      ],
+      "categories": "category 2"
+    },
+    {
+      "id": 3,
+      "title": "article 3",
+      "popular": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, deleniti? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet asperiores cumque deleniti dolorem enim et explicabo id illum labore nam nobis non pariatur perspiciatis sed, similique tempora totam vitae. Accusamus aliquid atque beatae blanditiis commodi consequuntur corporis cum doloremque, doloribus eum explicabo fugiat fugit itaque, iure laboriosam magnam minima molestias, odit officiis porro quas quis quos ratione soluta sunt temporibus ullam veniam vitae voluptas voluptates? Animi corporis cupiditate tempora.",
+      "comments": [
+        {
+          "user": "user 1",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        },
+        {
+          "user": "user 2",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "norm"
+        },
+        {
+          "user": "user 3",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "bad"
+        },
+        {
+          "user": "user 4",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "ok"
+        },
+        {
+          "user": "user 5",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        }
+      ],
+      "categories": "category 3"
+    },
+    {
+      "id": 4,
+      "title": "article 4",
+      "popular": false,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet asperiores cumque deleniti dolorem enim et explicabo id illum labore nam nobis non pariatur perspiciatis sed, similique tempora totam vitae. Accusamus aliquid atque beatae blanditiis commodi consequuntur corporis cum doloremque, doloribus eum explicabo fugiat fugit itaque, iure laboriosam magnam minima molestias, odit officiis porro quas quis quos ratione soluta sunt temporibus ullam veniam vitae voluptas voluptates? Animi corporis cupiditate tempora. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, deleniti?",
+      "comments": [
+        {
+          "user": "user 1",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        },
+        {
+          "user": "user 3",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "bad"
+        },
+        {
+          "user": "user 4",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "ok"
+        },
+        {
+          "user": "user 5",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        }
+      ],
+      "categories": "category 1"
+    },
+    {
+      "id": 5,
+      "title": "article 5",
+      "popular": true,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, deleniti?",
+      "comments": [
+        {
+          "user": "user 1",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "good"
+        },
+        {
+          "user": "user 2",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "norm"
+        },
+        {
+          "user": "user 3",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "bad"
+        },
+        {
+          "user": "user 4",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid assumenda commodi modi mollitia non possimus quas soluta temporibus ut!",
+          "review": "ok"
+        }
+      ],
+      "categories": "category 2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "profile": {
+    "name": "Admin"
+  }
+}

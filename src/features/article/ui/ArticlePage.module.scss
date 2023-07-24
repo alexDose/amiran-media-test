@@ -1,0 +1,39 @@
+.main {
+  margin: 0 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.article {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  border: 1px solid #037b7b;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #dcf5da;
+  }
+  span {
+    color: #037b7b;
+  }
+}
+
+.popular {
+  background-color: #fcfdd5;
+}
